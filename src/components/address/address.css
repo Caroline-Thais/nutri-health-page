@@ -1,0 +1,11 @@
+.main-address {
+  background-color: rgb(246, 216, 222);
+  text-align: center;
+  line-height: 1.5;
+  padding-bottom: 2em;
+}
+
+.main-address h4 {
+  text-transform: uppercase;
+  padding-top: 2em;
+}

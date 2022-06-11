@@ -1,5 +1,6 @@
 .nav-header {
   text-align: center;
+  padding-bottom: 1em;
 }
 
 .logo {
@@ -11,6 +12,7 @@
   margin: 0;
   padding: 0;
   list-style: none;
+  margin-bottom: 1em;
 }
 
 li {

@@ -1,0 +1,17 @@
+.main-office {
+  margin: 0 1em 2em;
+}
+
+.office-pic {
+  width: 20em;
+  margin: auto;
+}
+
+.main-office h4 {
+  text-transform: uppercase;
+}
+
+.main-office p {
+  text-align: center;
+  line-height: 1.5;
+}

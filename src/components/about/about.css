@@ -1,0 +1,18 @@
+.about {
+  margin-bottom: 2em;
+}
+
+.about p,
+h4 {
+  text-align: center;
+  margin: 2em;
+  line-height: 1.5;
+}
+
+.about h4 {
+  text-transform: uppercase;
+}
+
+.photo {
+  margin: 0 6.8em;
+}
