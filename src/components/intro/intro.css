@@ -1,0 +1,13 @@
+.intro-header {
+  position: relative;
+}
+
+h2,
+p {
+  margin: 0 2em;
+  color: rgb(74, 72, 72);
+}
+
+p {
+  margin-left: 3em;
+}
