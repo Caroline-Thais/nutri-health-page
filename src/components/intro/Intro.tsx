@@ -1,5 +1,4 @@
 import './intro.css'
-import food from '../../assets/foodimage.jpg'
 
 const Intro = () => {
   return (
@@ -7,8 +6,7 @@ const Intro = () => {
       <div className='intro-header'>
         <h2>Emagrecimento | <br />
           Ganho de Massa Muscular</h2>
-        <p>Nutri Health -Clínica de Nutrição</p>
-        <img src={food} alt="" />
+        <p>Nutri Health - Sua Clínica de Nutrição</p>
       </div>
     </div>
   )
